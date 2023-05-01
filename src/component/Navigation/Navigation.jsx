@@ -13,7 +13,7 @@ const Navigation = () => {
               <Nav.Link href="#licence">Certificates</Nav.Link>
               <Nav.Link href="#statistics">Skills</Nav.Link>
               <Nav.Link href="#gallery">Projects</Nav.Link>
-              <Nav.Link href="#testimonials">Customer Reviews</Nav.Link>
+//               <Nav.Link href="#testimonials">Customer Reviews</Nav.Link>
               <Nav.Link href="#contact-info">Contact Us</Nav.Link>
             </Nav>
           </Navbar.Collapse>
