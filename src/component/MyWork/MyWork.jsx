@@ -47,7 +47,7 @@ const MyWork = () => {
   //   });
   //   setPro(result);
   // };
-
+ 
   return (
     <div className="myWork">
       <section className="gallery" id="gallery">

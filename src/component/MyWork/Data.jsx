@@ -18,7 +18,7 @@ import img16 from "./../../assets/Project images/15.png";
 // import img18 from "./../../assets/Project images/1.png";
 // import img19 from "./../../assets/Project images/1.png";
 // import img20 from "./../../assets/Project images/1.jpg";
-
+ 
 const Data = [
   {
     id: 16,
