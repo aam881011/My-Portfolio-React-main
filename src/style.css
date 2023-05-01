@@ -1,0 +1,57 @@
+body {
+  font-family: "Cairo", sans-serif;
+}
+
+/* section.contacts .overlay .contact-info ul.social li a:hover {
+    background-color: #0575e6;
+}
+
+section.contacts .overlay .copyright p {
+    font-size: 18px;
+    color: #ececec;
+    line-height: 77px;
+    margin: 0;
+    text-align: center;
+}
+
+label.error {
+    color: red;
+} */
+
+@media (max-width: 992px) {
+  section.licence ul.timeline::before {
+    height: 77%;
+  }
+
+  section.contacts .overlay .testimonials .slider {
+    width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  section.licence ul.timeline::before {
+    height: 88%;
+  }
+
+  section.licence ul.timeline li .timebox {
+    width: 90%;
+    margin: auto;
+  }
+
+  section.licence ul.timeline li {
+    margin-bottom: 25px;
+  }
+
+  section.licence ul.timeline li .timebox::after {
+    content: none;
+  }
+
+  section.contacts
+    .overlay
+    .testimonials
+    .slider
+    .carousel-item
+    .carousel-caption {
+    padding: 65px 35px 35px;
+  }
+}

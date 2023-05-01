@@ -1,0 +1,35 @@
+.statistics {
+  background-image: url(./../../assets/bg-2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  .overlay {
+    background-color: rgba(5, 117, 230, 0.7);
+    padding: 150px 0;
+    .stat {
+      p {
+        font-size: 24px;
+        line-height: 30px;
+        color: #fff;
+        margin-top: 30px;
+        font-family: sans-serif;
+      }
+      .circle {
+        canvas {
+          background-color: #eef6ff;
+          padding: 10px;
+          border-radius: 50%;
+        }
+        position: relative;
+        span {
+          position: absolute;
+          color: #0575e6;
+          font-size: 24px;
+          top: 50%;
+          right: 50%;
+          transform: translate(50%, -50%);
+        }
+      }
+    }
+  }
+}

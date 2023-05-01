@@ -1,0 +1,64 @@
+header {
+  /* background-image: url(../images/bg-1.jpg); */
+  background-image: url(./../../assets/bg-1.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+
+header .overlay {
+  background-color: rgba(5, 117, 230, 0.9);
+  color: #fff;
+  padding: 40px 60px;
+  transform: translateY(20%);
+}
+
+header .personel img {
+  border: 5px solid #73ade7;
+  margin-bottom: 20px;
+  border-radius: 50%;
+  width: 118px;
+  height: 118px;
+}
+
+header .overlay h1 {
+  font-size: 36px;
+  line-height: 50px;
+  margin-bottom: 20px;
+  color: #f9f9f9;
+}
+
+header .overlay h1 span {
+  font-size: 24px;
+}
+
+header .overlay ul {
+  margin-bottom: 40px;
+}
+
+header .overlay ul li a {
+  font-size: 24px;
+  color: #021b79;
+}
+
+header .overlay h2 {
+  font-size: 15px;
+  line-height: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+header .overlay p {
+  font-size: 15px;
+  line-height: 30px;
+  color: #89c4ff;
+  margin-bottom: 40px;
+}
+
+header .overlay a.cv {
+  font-size: 18px;
+  line-height: 32px;
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 40px;
+}

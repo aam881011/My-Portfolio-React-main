@@ -1,0 +1,41 @@
+nav {
+  // background-color: #0575e6;
+}
+
+.navbar .navbar-nav a.nav-link {
+  color: #fff;
+  font-size: 16px;
+  line-height: 60px;
+  padding-right: 24px;
+  padding-left: 24px;
+  transition: all 0.5s ease;
+}
+
+.navbar .navbar-nav a.nav-link:hover,
+.navbar .navbar-nav a.nav-link.active {
+  color: #0575e6;
+  background-color: #fff;
+}
+  
+.navbar.noTransparent {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar.noTransparent .navbar-nav a.nav-link {
+  color: #0575e6;
+}
+
+.navbar.noTransparent .navbar-nav a.nav-link:hover,
+.navbar.noTransparent .navbar-nav a.nav-link.active {
+  color: #fff;
+  background-color: #0575e6;
+}
+
+.navbar-toggler-icon {
+  background-color: #aaa;
+  padding: 10px;
+  // color: white;
+}
+
+// -icon
