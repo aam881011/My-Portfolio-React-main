@@ -13,11 +13,8 @@ const Navigation = () => {
               <Nav.Link href="#licence">Certificates</Nav.Link>
               <Nav.Link href="#statistics">Skills</Nav.Link>
               <Nav.Link href="#gallery">Projects</Nav.Link>
-<<<<<<< HEAD
               {/* <Nav.Link href="#testimonials">Customer Reviews</Nav.Link> */}
-=======
               <Nav.Link href="#testimonials">Customer Reviews</Nav.Link>
->>>>>>> 870512ee338f45ba31e945f5a02c7279214cf172
               <Nav.Link href="#contact-info">Contact Us</Nav.Link>
             </Nav>
           </Navbar.Collapse>
