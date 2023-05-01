@@ -158,14 +158,14 @@ const Data = [
     text: "HTML",
     text2: "CSS",
   },
-  {
-    id: 12,
-    img: img12,
-    link: "https://aam881011.github.io/4/",
-    title: "website",
-    text: "HTML",
-    text2: "CSS",
-  },
+  // {
+  //   id: 12,
+  //   img: img12,
+  //   link: "https://aam881011.github.io/4/",
+  //   title: "website",
+  //   text: "HTML",
+  //   text2: "CSS",
+  // },
 
   // {
   //   id: 17,
