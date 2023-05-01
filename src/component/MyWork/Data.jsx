@@ -9,17 +9,27 @@ import img8 from "./../../assets/Project images/9.png";
 import img9 from "./../../assets/Project images/10.png";
 import img10 from "./../../assets/Project images/11.png";
 import img11 from "./../../assets/Project images/13.png";
-import img12 from "./../../assets/Project images/17.png";
+// import img12 from "./../../assets/Project images/17.png";
 import img13 from "./../../assets/Project images/2.png";
 import img14 from "./../../assets/Project images/6.png";
 import img15 from "./../../assets/Project images/14.png";
 import img16 from "./../../assets/Project images/15.png";
-// import img17 from "./../../assets/Project images/1.png";
+import img17 from "./../../assets/Project images/16.png";
 // import img18 from "./../../assets/Project images/1.png";
 // import img19 from "./../../assets/Project images/1.png";
 // import img20 from "./../../assets/Project images/1.jpg";
  
 const Data = [
+  {
+    id: 16,
+    img: img17,
+    link: "https://ecommerce-v3-one.vercel.app/",
+    title: "ECOMMERCE",
+    text: "HTML",
+    text2: "SASS",
+    text3: "React",
+    dataProject: "React",
+  },
   {
     id: 16,
     img: img16,
