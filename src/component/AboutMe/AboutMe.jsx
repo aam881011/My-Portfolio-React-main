@@ -11,7 +11,7 @@ const AboutMe = () => {
               <img src={img1} alt="" />
             </div>
             <h1>
-              Mohamed Dahy<span> - Front End Developer</span>
+              Mohamed Dahy<span> - Front End Developer -1</span>
             </h1>
             <ul className="list-inline">
               <li className="list-inline-item">

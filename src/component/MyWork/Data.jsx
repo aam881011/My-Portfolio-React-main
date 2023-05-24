@@ -80,7 +80,7 @@ const Data = [
     id: 11,
     img: img11,
     link: "https://projectreact-2.netlify.app/",
-    title: "Project-React-2",
+    title: "VEGETABLE SITE",
     text: "HTML",
     text2: "SASS",
     text3: "React",
