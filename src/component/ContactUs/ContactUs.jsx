@@ -39,12 +39,12 @@ const ContactUs = () => {
                   </li>
                   <li>
                     <i className="far fa-envelope"></i>
-                    <a href="mailto:aam881011@gmail.com" target="_blank">aam881011@gmail.com</a>
+                    <a href="mailto:mohamed.d.azhry@gmail.com" target="_blank">mohamed.d.azhry@gmail.com</a>
                     {/* aam881011@gmail.com */}
                   </li>
                   <li>
                     <i className="fa-solid fa-location-dot"></i>
-                    address : Cairo
+                    address : Cairo, Egypt
                   </li>
                 </ul>
                 <hr />

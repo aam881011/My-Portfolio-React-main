@@ -33,7 +33,7 @@ header .overlay h1 span {
 }
 
 header .overlay ul {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 header .overlay ul li a {
@@ -43,16 +43,17 @@ header .overlay ul li a {
 
 header .overlay h2 {
   font-size: 15px;
-  line-height: 30px;
+  // line-height: 30px;
   font-weight: bold;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 header .overlay p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 30px;
   color: #89c4ff;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
+  // text-align: start;
 }
 
 header .overlay a.cv {
@@ -61,4 +62,9 @@ header .overlay a.cv {
   color: #fff;
   text-decoration: none;
   margin-bottom: 40px;
+}
+
+.aboutMe {
+  // width: 95%;
+  margin: auto;
 }

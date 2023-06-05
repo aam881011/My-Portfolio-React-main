@@ -41,16 +41,34 @@ const AboutMe = () => {
                 </a>
               </li>
             </ul>
-            <h2>Phone: 01210250215</h2>
-            <h2> Lives in Cairo</h2>
+            {/* <h2>Phone: 01210250215</h2> */}
+            <div className="aboutMe">
+              <p>
+                A Front-End developer with 1y experience in React JS & Next JS
+                framework, designing and developing attractive, interactive and
+                responsive user interfaces that provides top-notch UX.
+              </p>
+              <p>
+                I’m constantly working on improving my technical and personal
+                skills and always striving to learn something new every day as
+                my passion is front-end development since I graduated and as I
+                love sharing my experience with others, I started my own Youtube
+                channel.
+              </p>
+              <p>
+                I look forward to working within an environment where I can
+                learn, impact my team and help in achieving the company goals.
+              </p>
+            </div>
+            <h2> Lives in Cairo, Egypt</h2>
             <br />
             <a href="#" className="cv" download="">
               <span>Download CV </span>
               <i className="fas fa-download"></i>
             </a>
-            <br />
-            <br />
-            <br />
+            {/* <br /> */}
+            {/* <br /> */}
+            {/* <br /> */}
           </div>
         </div>
       </header>
